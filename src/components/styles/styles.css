@@ -1,9 +1,3 @@
-/*
-$colorPri:  #356d65ff;
-$colorSec:  #f1cbb5ff;
-$colorTer:  #f7ecdfff;
-$colorWhite:#FFFFFF;
-*/
 
 * 
 ::before,
@@ -122,6 +116,11 @@ body {
 .linksProducts :hover{
     color: black;
     font-weight: 600;
+}
+
+.loader{
+    width: 200px;
+    margin: 100px auto;
 }
 
 /*---------------------------------------------------------*/

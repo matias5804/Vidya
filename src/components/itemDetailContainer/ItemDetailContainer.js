@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import {ItemDetail} from '../itemDetail/ItemDetail';
 import  MockedItem  from '../mock/MockedItem';
 import { useParams } from 'react-router-dom';
+import Loader from '../animation/Spinner';
 
 export const ItemDetailContainer = () => {
   
@@ -25,6 +26,12 @@ export const ItemDetailContainer = () => {
   
   }, [itemId]);
 
-  return loading ? <h2>CARGANDO...</h2> : <ItemDetail item={item} />;
+  return loading ? (
+    <div className='loader'>
+      <Loader/>
+    </div>)
+    : (<div>
+        <ItemDetail item={item} />
+      </div>)
   
 };

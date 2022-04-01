@@ -49,11 +49,11 @@
     height: 100px;
 }
 
-.btnForm{/*boton*/
+.btnForm{
     text-decoration: none;
     padding: 2px;
     color:#356d65ff;
-    font-weight: 500;/*ancho de le letra*/
+    font-weight: 500;
     background-color: #f1cbb5ff;
     border-radius: 4px;
 }
@@ -62,6 +62,7 @@
     background-color:#356d65ff;
     color:#f7ecdfff;
 }
+
 @media (max-width: 650px){
 
     .divContacto{
@@ -69,5 +70,4 @@
         flex-direction: column;
         width: 300px;
     }
-
 }

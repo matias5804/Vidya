@@ -1,12 +1,7 @@
-/*
-#356d65ff:  #356d65ff;
-$colorSec:  #f1cbb5ff;
-$colorTer:  #f7ecdfff;
-$colorWhite:#FFFFFF;
-*/
-* 
+
+*
 ::before,
-::after{/*incluíran cualquier borde o relleno que se añadan, y la caja de contenido se encogerá para absorber ese ancho extra.*/
+::after{
     box-sizing: border-box;
 }
 

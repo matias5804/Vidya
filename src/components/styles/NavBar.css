@@ -29,9 +29,7 @@
     font-size: medium;
 }
 
-/*---------------------------------------------------------*/
 
-/*inicio de los estilos a partir de los 600px*/
 @media (min-width:600px) { 
 
     .nav__logo{
@@ -48,14 +46,11 @@
         list-style: none;
         font-size: small;
     }
-
 }
 
-/*inicio de los estilos a partir de los 600px*/
+
 @media (min-width:1000px) { 
-
-
-    
+ 
     .nav__logo:hover{
         transform: scale(1.2, 1.2);
         transition-duration: 0.4s;
@@ -72,16 +67,14 @@
         font-size: large;
     }
 
-    .navLink{/*por ahora no cambia nada xq viene heredado*/
+    .navLink{
         text-decoration: none;
         color: #356d65ff;
         font-size: x-large;
         font-weight: 500;
     }
+
     .navLink:hover{
         font-weight: 700;
     }
-
-
-    
 }

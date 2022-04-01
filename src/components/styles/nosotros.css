@@ -1,4 +1,3 @@
-/*inicio de los estilos de lifestyle y nosotros */
 .divNota__masInfo{
     text-align: center;
     margin: 5%;
@@ -28,11 +27,10 @@
     word-spacing: 1px;
     letter-spacing: 1px;
     line-height: 30px;
-}/*Finaliza los esilos de lifestyle y nosotros*/
-
+}
 
 @media (min-width: 600px){
-     /*comienzan los estilos de nosotros*/
+ 
     .imagenNota{
         width: 100%;
         height: auto;

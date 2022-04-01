@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { ItemList } from '../itemList/ItemList';
 import MockedItem from '../mock/MockedItem';
+import Loader from '../animation/Spinner';
 import { useParams } from 'react-router-dom';
 
 export const ItemListContainer = () => {
@@ -29,6 +30,10 @@ export const ItemListContainer = () => {
   }, [catId]);
 
   return loading ? (
-    <h2>CARGANDO...</h2>
-  ) : (<ItemList items={items} />);
+    <div className='divLoader'>
+      <Loader />
+    </div>) 
+    : (<div>
+        <ItemList items={items} />
+      </div>)
 };
