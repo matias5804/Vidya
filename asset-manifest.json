@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Vidya/static/css/main.abe13142.chunk.css",
+    "main.js": "/Vidya/static/js/main.98d98df3.chunk.js",
+    "main.js.map": "/Vidya/static/js/main.98d98df3.chunk.js.map",
+    "runtime-main.js": "/Vidya/static/js/runtime-main.59338319.js",
+    "runtime-main.js.map": "/Vidya/static/js/runtime-main.59338319.js.map",
+    "static/js/2.0a213cf8.chunk.js": "/Vidya/static/js/2.0a213cf8.chunk.js",
+    "static/js/2.0a213cf8.chunk.js.map": "/Vidya/static/js/2.0a213cf8.chunk.js.map",
+    "index.html": "/Vidya/index.html",
+    "static/css/main.abe13142.chunk.css.map": "/Vidya/static/css/main.abe13142.chunk.css.map",
+    "static/js/2.0a213cf8.chunk.js.LICENSE.txt": "/Vidya/static/js/2.0a213cf8.chunk.js.LICENSE.txt",
+    "static/media/comoComprar.11ebb68d.jpg": "/Vidya/static/media/comoComprar.11ebb68d.jpg",
+    "static/media/envios.845b5356.jpg": "/Vidya/static/media/envios.845b5356.jpg",
+    "static/media/fotoContacto.a248df36.jpg": "/Vidya/static/media/fotoContacto.a248df36.jpg",
+    "static/media/iconoComoComprar.9e6d778b.png": "/Vidya/static/media/iconoComoComprar.9e6d778b.png",
+    "static/media/iconoComoPagar.12d4145e.png": "/Vidya/static/media/iconoComoPagar.12d4145e.png",
+    "static/media/iconoEnvio.4efbb748.png": "/Vidya/static/media/iconoEnvio.4efbb748.png",
+    "static/media/iconoInstagram.8add469b.png": "/Vidya/static/media/iconoInstagram.8add469b.png",
+    "static/media/imagenNosotros.1a800959.jpg": "/Vidya/static/media/imagenNosotros.1a800959.jpg",
+    "static/media/logoHorizontal.48bb3720.png": "/Vidya/static/media/logoHorizontal.48bb3720.png",
+    "static/media/logoPrimeroIcon.9cb0427f.jpg": "/Vidya/static/media/logoPrimeroIcon.9cb0427f.jpg",
+    "static/media/mediosDePagos.39f2483f.jpg": "/Vidya/static/media/mediosDePagos.39f2483f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59338319.js",
+    "static/js/2.0a213cf8.chunk.js",
+    "static/css/main.abe13142.chunk.css",
+    "static/js/main.98d98df3.chunk.js"
+  ]
+}
